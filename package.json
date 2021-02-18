@@ -1,0 +1,11 @@
+{
+  "name": "picross_answer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "index": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
