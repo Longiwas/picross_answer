@@ -6,6 +6,6 @@
   "scripts": {
     "index": "node index.js"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Weng, Xuebin(Github: Longiwas)",
+  "license": "MIT"
 }
